@@ -1,0 +1,2 @@
+# Society-Management-System
+This is a project of society management system that we did during our Hackathon. We basically used the technology such as php, html, CSS to make this project work.
